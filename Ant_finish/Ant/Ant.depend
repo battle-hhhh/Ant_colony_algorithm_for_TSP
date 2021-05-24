@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1597223346 source:c:\users\administrator\desktop\ant\main.cpp
+	<iostream>
+	<algorithm>
+	<numeric>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<cstdio>
+	<ctime>
+	<cmath>
+
+1597226128 source:c:\users\ai'i\desktop\ant\main.cpp
+	<iostream>
+	<algorithm>
+	<numeric>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<cstdio>
+	<ctime>
+	<cmath>
+
+1597739550 source:c:\users\ai'i\desktop\´ó¶şÏÂ\ant\main.cpp
+	<iostream>
+	<algorithm>
+	<numeric>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<cstdio>
+	<ctime>
+	<cmath>
+
+1598175189 source:c:\users\ai'i\desktop\ant_finish\ant\main.cpp
+	<iostream>
+	<algorithm>
+	<numeric>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<cstdio>
+	<ctime>
+	<cmath>
+
